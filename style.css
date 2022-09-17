@@ -123,7 +123,6 @@ body {
 
 @media (max-width:600px) {
 
-
   .container {
     height: 300px;
     width: 350px;
@@ -139,11 +138,12 @@ body {
   }
 
   .footer {
-    margin-bottom: 250px;
+    margin-bottom: 230px;
   }
 
   .footer a {
-    text-align: justify;
+    font-size: 14px;
+    color: white;
   }
 
   .game__win {
