@@ -121,7 +121,7 @@ body {
 
 @media (max-width:600px) {
   body {
-    margin: 10rem 0;
+    margin: 13rem 0 30rem 0;
   }
 
   .container {
